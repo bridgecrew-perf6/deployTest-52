@@ -13,7 +13,7 @@ on:
 
 jobs:
   build:
-    if: ${{GITHUB_REF_NAME =='patch*'}}
+    if: ${{GITHUB_REF =='patch*'}}
     runs-on: ubuntu-latest
 
     steps:
