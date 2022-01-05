@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  - if: ${{GITHUB_REF_NAME=='patch'*}}
+  - if: ${{GITHUB_REF_NAME=='patch*'}}
     build:
       runs-on: ubuntu-latest
 
