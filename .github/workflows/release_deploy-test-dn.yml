@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - run: |
-          echo 타입 ${{env}} ${{github.ref.name}}분기, 태그이름
+          echo 타입 ${{env}} ${{github.ref_name}}분기, 태그이름
       - uses: actions/checkout@v2
       - name: Set up Node.js version
         uses: actions/setup-node@v1
