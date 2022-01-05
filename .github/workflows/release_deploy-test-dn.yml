@@ -30,6 +30,10 @@ jobs:
           npm run build --if-present
           npm run test --if-present
 
+      - name: Static download
+        run: |
+          curl -o data/test.json https://cs11003200042eb1037.blob.core.windows.net/book-data/ybmKim/3/english/1/stage_1
+
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
         with:
