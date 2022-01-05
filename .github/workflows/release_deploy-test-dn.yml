@@ -19,6 +19,15 @@ jobs:
         with:
           node-version: "14.x"
 
+      - name: npm cache
+        run: echo check!!!!!!!
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ hashFiles('**/package-lock.json') }}
+
       - name: npm install, build, and test
         run: |
           npm install
