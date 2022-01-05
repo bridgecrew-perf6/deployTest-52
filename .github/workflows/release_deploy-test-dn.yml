@@ -34,7 +34,7 @@ jobs:
         run: |
           pwd
           ls -al
-          curl -o ${{github.workspace}}/data/test.json https://cs11003200042eb1037.blob.core.windows.net/book-data/ybmKim/3/english/1/stage_1
+          curl -o ${{github.workspace}}/data/test1.json https://cs11003200042eb1037.blob.core.windows.net/user/similarSpeak/e2mdN4/4/3/619f4113f4517f2da8138632.json
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2

@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 /* GET home page. */
-const data = require('../data/test.json')
+const data = require('../data/test1.json')
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express release123' });
 });
