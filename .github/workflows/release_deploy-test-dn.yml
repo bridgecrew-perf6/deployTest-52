@@ -32,6 +32,8 @@ jobs:
 
       - name: Static download
         run: |
+          pwd
+          ls -al
           curl -o data/test.json https://cs11003200042eb1037.blob.core.windows.net/book-data/ybmKim/3/english/1/stage_1
 
       - name: Upload artifact for deployment job
