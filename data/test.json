@@ -1,0 +1,980 @@
+{
+  "TalkMarker": "YBMK_L10_speaking",
+  "ReadMarker": "YBMK_L10_reading",
+  "ListenMarker": "YBMK_L10_listening",
+  "WriteMarker": "YBMK_L10_writing2",
+  "WordOrderMarker": "YBMK_L10_WO",
+  "ChatbotMarker": "YBMK_L10_talking",
+  "Talk": [
+    {
+      "Sentence": "Yes, I do.",
+      "Audio": "yes_i_do.mp3",
+      "Image": "yes_i_do.png",
+      "Correct": ["Yes, I do."],
+      "Similar": [
+        ["Yes, I had the.",
+        "Yes Ida.",
+        "Yes, Andrew."]
+      ]
+    },
+    {
+      "Sentence": "No, I don't.",
+      "Audio": "no_i_don_t.mp3",
+      "Image": "no_i_don_t.png",
+      "Correct": ["No, I don't."],
+      "Similar": [
+        [ "No, I don't do." ]
+      ]
+    },
+    {
+      "Sentence": "Here you are.",
+      "Audio": "here_you_are.mp3",
+      "Image": "here_you_are.png",
+      "Correct": ["Here you are."],
+      "Similar": [
+        ["Here you are.",
+        "KKR.",
+        "Yeah, are you are.",
+        "He are you all.",
+        "Yet you are.",
+        "Here we are."]
+      ]
+    },
+    {
+      "Sentence": "Do you have any crayons?",
+      "Audio": "do_you_have_any_crayons.mp3",
+      "Image": "do_you_have_any_crayons.png",
+      "Correct": [ "Do you have any crayons" ],
+      "Similar": [
+        [ "Do you have any crayons?",
+        "Do you have any questions?",
+        "Do you have any claim?",
+        "Do you have any Canadian?",
+        "Do you have any clients?",
+        "Do you have any claims?",
+        "To you, I mean claims.",
+        "To your hair baby niclaus.",
+        "To you happy me claims.",
+        "Do you have any games?",
+        "Do you have any caves?" ]
+      ]
+    },
+    {
+      "Sentence": "Do you have any scissors?",
+      "Audio": "do_you_have_any_scissors.mp3",
+      "Image": "do_you_have_any_scissors.png",
+      "Correct": ["Do you have any scissors"],
+      "similar": [
+        ["Do you have any sense of?",
+        "Do you have birthday nieces of?",
+        "Do you have any sister Sue?",
+        "Do you have any scissors?",
+        "Do you have any seizures?",
+        "Do you have any seizure?",
+        "Do you have any CDOs?",
+        "Do you have any? She just.",
+        "Do you have any signal?",
+        "Do you have any Caesar?",
+        "Do you have any easier?",
+        "Yeah man, it's easier." ]
+      ]
+    },
+    {
+      "Sentence": "Do you have any shoes?",
+      "Audio": "do_you_have_any_shoes.mp3",
+      "Image": "do_you_have_any_shoes.png",
+      "Correct": ["Do you have any shoes"],
+      "Similar": [
+        ["Do you have any shoes?",
+        "Do you ever any issues?",
+        "Do you have any issues?",
+        "Do you have any shoe?",
+        "Do you have an issue?",
+        "Do you have any juice?"]
+      ]
+    },
+    {
+      "Sentence": "Do you have a cap?",
+      "Audio": "do_you_have_a_cap.mp3",
+      "Image": "do_you_have_a_cap.png",
+      "Correct": [ "Do you have a cap" ],
+      "Similar": [
+        [ "Do you have a cat?",
+        "Will you help me OK?",
+        "Do you ever OK?",
+        "Do you have a cup?",
+        "Do you handle OK?",
+        "Do you have a key?",
+        "Do you have a kid?",
+        "Two you have OK.",
+        "2 year old cat.",
+        "They'll have a cap.",
+        "They will have a cap.",
+        "Two, you have a OK." ]
+      ]
+    },
+    {
+      "Sentence": "Do you have a bag?",
+      "Audio": "do_you_have_a_bag.mp3",
+      "Image": "do_you_have_a_bag.png",
+      "Correct": ["Do you have a bag"],
+      "similar": [
+        ["Do you have a pet?",
+        "Do you have a pig?",
+        "To you Apple head Bobby.",
+        "Do you have hope?",
+        "Do you have a bed?",
+        "Not your way.",
+        "Delete.",
+        "Tyrwhitt",
+        "Do you have a big?",
+        "Do you have the big?",
+        "Two year have affected."]
+      ]
+    },
+    {
+      "Sentence": "Do you have a pencil?",
+      "Audio": "do_you_have_a_pencil.mp3",
+      "Image": "do_you_have_a_pencil.png",
+      "Correct": [ "Do you have a pencil" ],
+      "Similar": [
+        [ "Do you have a pencil?",
+        "Do you have your pencil?",
+        "Do you have an open set?",
+        "Do you have anything?",
+        "Do you have weapons?",
+        "Two year habit or pension.",
+        "Do you have love pencil?",
+        "To your apple pencil.",
+        "Thank you ever pensive.",
+        "Two, you have put open." ]
+      ]
+    },
+    {
+      "Sentence": "Yes, I have a cap.",
+      "Audio": "yes_i_have_a_cap.mp3",
+      "Image": "i_have_a_cap.png",
+      "Correct": [ "Yes, I have a cap." ],
+      "Similar": [
+        [ "Yes, I have local.",
+        "It's I have a key.",
+        "He said I have felt.",
+        "Yes, I will keep.",
+        "Is it I have a kid?",
+        "It's I have a orchid.",
+        "Is I happen or?",
+        "Is I broke it.",
+        "Is it I hit block?",
+        "It's that I have or kept.",
+        "It's I block it.",
+        "Yes, I am OK.",
+        "Is the hill OK?",
+        "Yes, I have a kid.",
+        "As I have all kept.",
+        "Yes, I have a orchid.",
+        "Yes, I have it OK.",
+        "Is it I hit bouquet?",
+        "Yes, I have kept.",
+        "Yes, I have a or Cape.",
+        "Yes, I have all kept.",
+        "Is I have a cap.",
+        "Yes, I have a key.",
+        "Yes, I have a cap.",
+        "Yes, I have a cat.",
+        "Yes, I have a cab.",
+        "Yes I have OK.",
+        "Yes, I broke it.",
+        "Yes, I have a or kept.",
+        "You save a kid." ]
+      ]
+    },
+    {
+      "Sentence": "Yes, I have a bag.",
+      "Audio": "yes_i_have_a_bag.mp3",
+      "Image": "i_have_a_bag.png",
+      "Correct": ["Yes, I have a bag."],
+      "similar": [
+        ["Yes, I have a bag.",
+        "Yes, I love it.",
+        "Did I ever wake?",
+        "Yes, I will be.",
+        "Yes, I have all pets.",
+        "Yes Sir, I have a big.",
+        "Yes, I have a pay.",
+        "Yes, so I have full of bed.",
+        "Yes Sir, I have your back.",
+        "He said I have a pig.",
+        "Yes, I have a baby.",
+        "Yes, I have a pack.",
+        "Yes, I have a pig.",
+        "His I have a big.",
+        "Yes, I am awake.",
+        "Yes Sir, I have a pig.",
+        "Yes, I have a pet.",
+        "Yes, I have are all.",
+        "Yes, I had to pick.",
+        "Yes, I have all paid.",
+        "It's still I have a or pick.",
+        "Yes, I have or pay.",
+        "Is I am awake?",
+        "Is a big.",
+        "Is that I have all pig.",
+        "If I have it or pick.",
+        "Yes, I have a pic.",
+        "He said I have a pic.",
+        "Yes, I have popping.",
+        "Yes, I have a girlfriend.",
+        "Is I have a bed?",
+        "You said I had food or pig.",
+        "Yes, I have a big.",
+        "He said I overall pick.",
+        "Yes, I have perfect.",
+        "Yes, I have your pin.",
+        "Yes, I have blue or pink.",
+        "Is that I have a pig.",
+        "Is I have a pig.",
+        "Yes Sir, I am Bobby.",
+        "Is Sawyer Bobby?",
+        "It's I have.",
+        "Is the yeah Bobby?",
+        "Yes, I have a away.",
+        "Yes, I have already.",
+        "Yes I have Boo or pig.",
+        "This I approve it.",
+        "It's I have or pick.",
+        "It's still IE hibu or pig."]
+      ]
+    },
+    {
+      "Sentence": "Yes, I have a pencil.",
+      "Audio": "yes_i_have_a_pencil.mp3",
+      "Image": "i_have_a_pencil.png",
+      "Correct": [ "Yes, I have a pencil." ],
+      "Similar": [
+        [ "Yes, I have a pencil.",
+        "Is so I have a pencil.",
+        "Yes I have opens.",
+        "Is I apple pencil.",
+        "Yes Sir, I have a lot of pencil.",
+        "Yes Sir, I have a pencil.",
+        "Is I am Robinson.",
+        "Yes, I am open soon.",
+        "Yes, I love answer.",
+        "Yes, I have opposite.",
+        "Yes, I am Robinson.",
+        "As I have a pencil.",
+        "Is so IE hipper or pencil?",
+        "Yes Sir, I have it or pencil.",
+        "Is that I have to open, Sir?",
+        "Yes, I am a person.",
+        "Yes, I have open.",
+        "Is Siri I ever gonna see?",
+        "Yes, I have a opens.",
+        "He said I have it open so.",
+        "Yes, I have open soon.",
+        "Yes, I have opened.",
+        "Yes, open soon.",
+        "Yes, I have officer.",
+        "Yes, I hipple or pencil.",
+        "Yes, I had food, all pensive.",
+        "Is there are yeah Boo open Sir?",
+        "Yes, I have open Sir.",
+        "Yes, I have open full.",
+        "If I have a pencil." ]
+      ]
+    },
+    {
+      "Sentence": "No, I don't have a cap.",
+      "Audio": "no_i_don_t_have_a_cap.mp3",
+      "Image": "i_don_t_have_a_cap.png",
+      "Correct": [ "No, I don't have a cap." ],
+      "Similar": [
+        [ "No, I don't have a cat.",
+        "No, I don't have a cap.",
+        "Do I eat onto happier or kept?",
+        "Do I don't ever care.",
+        "No, I don't have all Cape.",
+        "No, I don't ever or keep.",
+        "No, I don't. You have or keep.",
+        "No, I eat and to have all kept.",
+        "No, I don't have a OK.",
+        "No, I don't have a kid.",
+        "No, I don't even care.",
+        "Do I don't have OK?",
+        "Do I don't have a cat?",
+        "No, I don't have a key.",
+        "Do I don't have a cap?",
+        "No, I don't have a Cape.",
+        "No, I don't have cat." ]
+      ]
+    },
+    {
+      "Sentence": "No, I don't have a bag.",
+      "Audio": "no_i_don_t_have_a_bag.mp3",
+      "Image": "i_don_t_have_a_bag.png",
+      "Correct": ["No, I don't have a bag."],
+      "similar": [
+        ["No, I don't have a bank.",
+        "So I don't have a pet.",
+        "No, I don't have a pet.",
+        "No, I don't have a bag.",
+        "You always do. I don't ever beg.",
+        "No, I can't separate.",
+        "No, I don't ever or pig.",
+        "No, I don't have a little pig.",
+        "No, I don't have a office.",
+        "No, I don't ever like.",
+        "No, I don't ever pick.",
+        "No, I don't have all of it.",
+        "No, I don't have a mic.",
+        "No, I don't have it all pick.",
+        "No, I don't have it.",
+        "No, I don't have awake.",
+        "No, I don't have a pic.",
+        "No, I don't have all back.",
+        "No, I don't have a big.",
+        "No, I don't know all of it.",
+        "No, I don't have a way."]
+      ]
+    },
+    {
+      "Sentence": "No, I don't have a pencil.",
+      "Audio": "no_i_don_t_have_a_pencil.mp3",
+      "Image": "i_don_t_have_a_pencil.png",
+      "Correct": ["No, I don't have a pencil." ],
+      "Similar": [
+        [ "No, I don't have a pic.",
+        "Lloyd level pets.",
+        "No, I don't have a pencil.",
+        "No, I can't level Tennessee.",
+        "No, I don't have answer.",
+        "No, I don't have a all pencil.",
+        "No, I don't have a password.",
+        "No, I don't know pencil.",
+        "No, you don't have a puzzle.",
+        "No, you don't have a pencil.",
+        "No, I don't tell all Pelsall.",
+        "Do I have a pencil?",
+        "No, I don't never passes.",
+        "No, I don't have plans.",
+        "Do I need to have a pencil?",
+        "No, I don't have options.",
+        "Do I don't have options?",
+        "Do I don't have a pencil?",
+        "Do I need hunter? Have a pencil?",
+        "No other pencil." ]
+      ]
+    },
+    {
+      "Sentence": "Do you have an umbrella?",
+      "Audio": "do_you_have_an_umbrella.mp3",
+      "Image": "do_you_have_an_umbrella.png",
+      "Correct": ["Do you have an umbrella"],
+      "Similar": [
+        [ "Do you have an unreal?",
+        "Do you have a phone number Ella?",
+        "Do you have put an umbrella?",
+        "Do you have a little bro?",
+        "To you I will brother.",
+        "Do you have boots on on very long?",
+        "Do you have an umbrella law?",
+        "See, you have blown umbrella.",
+        "Do you have a umbrella?",
+        "Do you have umbrella?"]
+      ]
+    },
+    {
+      "Sentence": "Do you have a glove?",
+      "Audio": "do_you_have_a_glove.mp3",
+      "Image": "do_you_have_a_glove.png",
+      "Correct": ["Do you have a glove" ],
+      "Similar": [
+        [ "Do you have it all closed?",
+        "Do you have all club?",
+        "Do you have a club?",
+        "Could you have a global?",
+        "Do you have all clubs?",
+        "Rule number girl",
+        "Do you have a lover?",
+        "Do you have a global?",
+        "Do you have a glow?",
+        "Do you have a girl?",
+        "To your broker.",
+        "Do you have book club?",
+        "To your health club.",
+        "Three, you have o'clock." ]
+      ]
+    },
+    {
+      "Sentence": "Do you have a clip?",
+      "Audio": "do_you_have_a_clip.mp3",
+      "Image": "do_you_have_a_clip.png",
+      "Correct": ["Do you have a clip"],
+      "Similar": [
+        ["Do you have a curly?",
+        "Do you have clean?",
+        "To you hey bro clip.",
+        "Do you have a or Kelly?",
+        "Do you have locally?",
+        "Here clean.",
+        "T Rowe clinic.",
+        "Tear clip.",
+        "Do you have all Curly?",
+        "Teal have a clip.",
+        "Do you have a clue?",
+        "Do you have a clean?"]
+      ]
+    },
+    {
+      "Sentence": "Do you have a cutter?",
+      "Audio": "do_you_have_a_cutter.mp3",
+      "Image": "do_you_have_a_cutter.png",
+      "Correct": ["Do you have a cutter"],
+      "Similar": [
+        ["Do you have a color?",
+        "Do you have a card?",
+        "Do you have all color?",
+        "Do you have a Kelly?",
+        "Do you have a girl?",
+        "Do you have a car to?",
+        "Do you have coffee?",
+        "Do you have your cutter?",
+        "Do you have a copter?",
+        "Do you have a daughter?",
+        "Do you have a culture?"]
+      ]
+    },
+    {
+      "Sentence": "I don't have a bike.",
+      "Audio": "i_don_t_have_a_bike.mp3",
+      "Image": "i_don_t_have_a_bike.png",
+      "Correct": ["I don't have a bike."],
+      "Similar": [
+        ["I don't have all Pike.",
+        "I don't know. Bill Pike.",
+        "I eat hunter Hoover or Pike.",
+        "I want to have a bike.",
+        "I don't have hike.",
+        "I don't have a Pike.",
+        "I don't ever like.",
+        "I don't ever buy.",
+        "I don't ever pie.",
+        "I don't have bike.",
+        "I don't want to have off like.",
+        "I sorta like.",
+        "Are you can tell by.",
+        "I don't have a mic.",
+        "I don't have pipe.",
+        "I don't have a pipe."]
+      ]
+    }
+  ],
+  "Read": [
+    {
+      "Question": "eraser",
+      "Image": "eraser.png"
+    },
+    {
+      "Question": "have",
+      "Image": "have.png"
+    },
+    {
+      "Question": "crayon",
+      "Image": "crayon.png"
+    },
+    {
+      "Question": "scissors",
+      "Image": "scissors.png"
+    },
+    {
+      "Question": "shoes",
+      "Image": "shoes.png"
+    },
+    {
+      "Question": "cap",
+      "Image": "cap.png"
+    },
+    {
+      "Question": "book",
+      "Image": "book.png"
+    },
+    {
+      "Question": "bag",
+      "Image": "bag.png"
+    },
+    {
+      "Question": "pencil",
+      "Image": "pencil.png"
+    },
+    {
+      "Question": "ball",
+      "Image": "ball.png"
+    },
+    {
+      "Question": "notebook",
+      "Image": "notebook.png"
+    },
+    {
+      "Question": "glue stick",
+      "Image": "glue_stick.png"
+    },
+    {
+      "Question": "clock",
+      "Image": "clock.png"
+    },
+    {
+      "Question": "doll",
+      "Image": "doll.png"
+    },
+    {
+      "Question": "map",
+      "Image": "map.png"
+    },
+    {
+      "Question": "clip",
+      "Image": "clip.png"
+    },
+    {
+      "Question": "tape",
+      "Image": "tape.png"
+    },
+    {
+      "Question": "paper",
+      "Image": "paper.png"
+    },
+    {
+      "Question": "cutter",
+      "Image": "cutter.png"
+    },
+    {
+      "Question": "sticker",
+      "Image": "sticker.png"
+    }
+  ],
+  "Listen": [
+    {
+      "Audio": "yes_i_do.mp3",
+      "Answer": "yes_i_do.png"
+    },
+    {
+      "Audio": "no_i_don_t.mp3",
+      "Answer": "no_i_don_t.png"
+    },
+    {
+      "Audio": "here_you_are.mp3",
+      "Answer": "here_you_are.png"
+    },
+    {
+      "Audio": "do_you_have_any_crayons.mp3",
+      "Answer": "do_you_have_any_crayons.png"
+    },
+    {
+      "Audio": "do_you_have_any_scissors.mp3",
+      "Answer": "do_you_have_any_scissors.png"
+    },
+    {
+      "Audio": "do_you_have_any_shoes.mp3",
+      "Answer": "do_you_have_any_shoes.png"
+    },
+    {
+      "Audio": "do_you_have_a_cap.mp3",
+      "Answer": "do_you_have_a_cap.png"
+    },
+    {
+      "Audio": "do_you_have_a_bag.mp3",
+      "Answer": "do_you_have_a_bag.png"
+    },
+    {
+      "Audio": "do_you_have_a_pencil.mp3",
+      "Answer": "do_you_have_a_pencil.png"
+    },
+    {
+      "Audio": "yes_i_have_a_cap.mp3",
+      "Answer": "i_have_a_cap.png"
+    },
+    {
+      "Audio": "yes_i_have_a_bag.mp3",
+      "Answer": "i_have_a_bag.png"
+    },
+    {
+      "Audio": "yes_i_have_a_pencil.mp3",
+      "Answer": "i_have_a_pencil.png"
+    },
+    {
+      "Audio": "no_i_don_t_have_a_cap.mp3",
+      "Answer": "i_don_t_have_a_cap.png"
+    },
+    {
+      "Audio": "no_i_don_t_have_a_bag.mp3",
+      "Answer": "i_don_t_have_a_bag.png"
+    },
+    {
+      "Audio": "no_i_don_t_have_a_pencil.mp3",
+      "Answer": "i_don_t_have_a_pencil.png"
+    },
+    {
+      "Audio": "do_you_have_an_umbrella.mp3",
+      "Answer": "do_you_have_an_umbrella.png"
+    },
+    {
+      "Audio": "do_you_have_a_glove.mp3",
+      "Answer": "do_you_have_a_glove.png"
+    },
+    {
+      "Audio": "do_you_have_a_clip.mp3",
+      "Answer": "do_you_have_a_clip.png"
+    },
+    {
+      "Audio": "do_you_have_a_cutter.mp3",
+      "Answer": "do_you_have_a_cutter.png"
+    },
+    {
+      "Audio": "i_don_t_have_a_bike.mp3",
+      "Answer": "i_don_t_have_a_bike.png"
+    }
+  ],
+  "Write2": [
+    {
+      "Image": "eraser.png",
+      "Answer": "eraser"
+    },
+    {
+      "Image": "have.png",
+      "Answer": "have"
+    },
+    {
+      "Image": "crayon.png",
+      "Answer": "crayon"
+    },
+    {
+      "Image": "scissors.png",
+      "Answer": "scissors"
+    },
+    {
+      "Image": "shoes.png",
+      "Answer": "shoes"
+    },
+    {
+      "Image": "cap.png",
+      "Answer": "cap"
+    },
+    {
+      "Image": "book.png",
+      "Answer": "book"
+    },
+    {
+      "Image": "bag.png",
+      "Answer": "bag"
+    },
+    {
+      "Image": "pencil.png",
+      "Answer": "pencil"
+    },
+    {
+      "Image": "ball.png",
+      "Answer": "ball"
+    },
+    {
+      "Image": "notebook.png",
+      "Answer": "notebook"
+    },
+    {
+      "Image": "glue_stick.png",
+      "Answer": "gluestick"
+    },
+    {
+      "Image": "clock.png",
+      "Answer": "clock"
+    },
+    {
+      "Image": "doll.png",
+      "Answer": "doll"
+    },
+    {
+      "Image": "map.png",
+      "Answer": "map"
+    },
+    {
+      "Image": "clip.png",
+      "Answer": "clip"
+    },
+    {
+      "Image": "tape.png",
+      "Answer": "tape"
+    },
+    {
+      "Image": "paper.png",
+      "Answer": "paper"
+    },
+    {
+      "Image": "cutter.png",
+      "Answer": "cutter"
+    },
+    {
+      "Image": "sticker.png",
+      "Answer": "sticker"
+    }
+  ],
+  "WordOrder": [
+    {
+      "Korean": "여기있어.",
+      "Answer": "Here you are.",
+      "Order": [ "Adverb", "Subject", "Be", "Sign" ],
+      "Order2": [ "Here", "you", "are", "." ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "I" ],
+        "Answer": [],
+        "Noun": [],
+        "Sign": [ "?" ]
+      }
+    },
+    {
+      "Korean": "응, 그래.",
+      "Answer": "Yes, I do.",
+      "Order": [ "Answer", "Sign", "Subject", "Auxiliary", "Sign" ],
+      "Order2": [ "Yes", ",", "I", "do", "." ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "He" ],
+        "Answer": [ "No" ],
+        "Noun": [],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "아니, 그렇지 않아.",
+      "Answer": "No, I do not.",
+      "Order": [ "Answer", "Sign", "Subject", "Auxiliary", "Not", "Sign" ],
+      "Order2": [ "No", ",", "I", "do", "not", "." ],
+      "Stage2": {
+        "Not": [ "no" ],
+        "Subject": [ "She" ],
+        "Answer": [],
+        "Noun": [],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 크레용을 갖고 있니?",
+      "Answer": "Do you have any crayons?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Determinal", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "any", "crayons", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "He" ],
+        "Answer": [],
+        "Noun": [ "scissors" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 가위를 갖고 있니?",
+      "Answer": "Do you have any scissors?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Determinal", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "any", "scissors", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "He" ],
+        "Answer": [],
+        "Noun": [ "shoes" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 신발을 갖고 있니?",
+      "Answer": "Do you have any shoes?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Determinal", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "any", "shoes", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "He" ],
+        "Answer": [],
+        "Noun": [ "cap" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 모자를 갖고 있니?",
+      "Answer": "Do you have a cap?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "a", "cap", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "He" ],
+        "Answer": [],
+        "Noun": [ "bag" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 가방을 갖고 있니?",
+      "Answer": "Do you have a bag?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "a", "bag", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "He" ],
+        "Answer": [],
+        "Noun": [ "pencil" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 연필을 갖고 있니?",
+      "Answer": "Do you have a pencil?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "a", "pencil", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "She" ],
+        "Answer": [],
+        "Noun": [ "umbrella" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 우산을 갖고 있니?",
+      "Answer": "Do you have an umbrella?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "an", "umbrella", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "She" ],
+        "Answer": [],
+        "Noun": [ "glove" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 글러브를 갖고 있니?",
+      "Answer": "Do you have a glove?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "a", "glove", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "She" ],
+        "Answer": [],
+        "Noun": [ "clip" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 클립을 갖고 있니?",
+      "Answer": "Do you have a clip?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "a", "clip", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "She" ],
+        "Answer": [],
+        "Noun": [ "cutter" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "너는 커터칼을 갖고 있니?",
+      "Answer": "Do you have a cutter?",
+      "Order": [ "Auxiliary", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Do", "you", "have", "a", "cutter", "?" ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [ "She" ],
+        "Answer": [],
+        "Noun": [ "crayon" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "응, 나는 모자를 갖고 있어.",
+      "Answer": "Yes, I have a cap.",
+      "Order": [ "Answer", "Sign", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Yes", ",", "I", "have", "a", "cap", "." ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [],
+        "Answer": [ "No" ],
+        "Noun": [ "bag" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "응, 나는 가방을 갖고 있어.",
+      "Answer": "Yes, I have a bag.",
+      "Order": [ "Answer", "Sign", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Yes", ",", "I", "have", "a", "bag", "." ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [],
+        "Answer": [ "No" ],
+        "Noun": [ "pencil" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "응, 나는 연필을 갖고 있어.",
+      "Answer": "Yes, I have a pencil.",
+      "Order": [ "Answer", "Sign", "Subject", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "Yes", ",", "I", "have", "a", "pencil", "." ],
+      "Stage2": {
+        "Not": [],
+        "Subject": [],
+        "Answer": [ "No" ],
+        "Noun": [ "cap" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "아니, 나는 모자를 갖고 있지 않아.",
+      "Answer": "I do not have a cap.",
+      "Order": [ "Subject", "Auxiliary", "Not", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "I", "do", "not", "have", "a", "cap", "." ],
+      "Stage2": {
+        "Not": [ "no" ],
+        "Subject": [],
+        "Answer": [],
+        "Noun": [ "bag" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "아니, 나는 가방을 갖고 있지 않아.",
+      "Answer": "I do not have a bag.",
+      "Order": [ "Subject", "Auxiliary", "Not", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "I", "do", "not", "have", "a", "bag", "." ],
+      "Stage2": {
+        "Not": [ "no" ],
+        "Subject": [],
+        "Answer": [],
+        "Noun": [ "pencil" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "아니, 나는 연필을 갖고 있지 않아.",
+      "Answer": "I do not have a pencil.",
+      "Order": [ "Subject", "Auxiliary", "Not", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "I", "do", "not", "have", "a", "pencil", "." ],
+      "Stage2": {
+        "Not": [ "no" ],
+        "Subject": [],
+        "Answer": [],
+        "Noun": [ "bike" ],
+        "Sign": []
+      }
+    },
+    {
+      "Korean": "아니, 나는 자전거를 갖고 있지 않아.",
+      "Answer": "I do not have a bike.",
+      "Order": [ "Subject", "Auxiliary", "Not", "Verb", "Article", "Noun", "Sign" ],
+      "Order2": [ "I", "do", "not", "have", "a", "bike", "." ],
+      "Stage2": {
+        "Not": [ "no" ],
+        "Subject": [],
+        "Answer": [],
+        "Noun": [ "cap" ],
+        "Sign": []
+      }
+    }
+  ]
+}
