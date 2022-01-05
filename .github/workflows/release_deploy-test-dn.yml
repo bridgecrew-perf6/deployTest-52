@@ -17,7 +17,8 @@ jobs:
     steps:
       - run: |
           echo 타입 ${{github.ref_type}} ${{github.ref_name}}분기, 태그이름
-          ${{github.workspace}}
+          echo ${{github.workspace}}/test.txt
+          echo ${{github.workspace/test.txt}}
       - uses: actions/checkout@v2
       - name: Set up Node.js version
         uses: actions/setup-node@v1
