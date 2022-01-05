@@ -17,9 +17,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: echo ${{base_ref}}타입 GITHUB_REF_TYPE github.ref.name분기, 태그이름
+      - run: |
+          타입 "$GITHUB_REF_TYPE" "$github.ref.name"분기, 태그이름
       - uses: actions/checkout@v2
-
       - name: Set up Node.js version
         uses: actions/setup-node@v1
         with:
